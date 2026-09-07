@@ -21,7 +21,7 @@
 
 </div>
 
-## `01` — PROFILE
+## → PROFILE
 
 I am a **MERN Stack Developer** focused on building responsive interfaces, reliable backend systems, and complete full-stack applications.
 
@@ -31,7 +31,7 @@ My development journey is centered around turning ideas into working products wh
 
 ---
 
-## `02` — TECHNICAL STACK
+## → TECHNICAL STACK
 
 <table>
 <tr>
@@ -70,7 +70,7 @@ My development journey is centered around turning ideas into working products wh
 
 ---
 
-## `03` — FEATURED PROJECTS
+## → FEATURED PROJECTS
 
 ### Full-Stack
 
@@ -148,7 +148,7 @@ A React application for discovering exercises, browsing workout information, and
 
 ---
 
-## `04` — PROJECT CATALOG
+## → PROJECT CATALOG
 
 | Category | Project | Focus |
 | :--- | :--- | :--- |
@@ -159,7 +159,7 @@ A React application for discovering exercises, browsing workout information, and
 
 ---
 
-## `05` — LET'S CONNECT
+## → LET'S CONNECT
 
 <div align="center">
 

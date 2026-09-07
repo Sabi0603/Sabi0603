@@ -15,7 +15,7 @@
 
 </div>
 
-## <img src="https://img.shields.io/badge/%E2%86%92-PROFILE-181717?style=flat-square" alt="Profile" />
+## <img src="https://img.shields.io/badge/%E2%9E%9C-PROFILE-181717?style=flat-square" alt="Profile" />
 
 I am a **MERN Stack Developer** focused on building responsive interfaces, reliable backend systems, and complete full-stack applications.
 
@@ -25,7 +25,7 @@ My development journey is centered around turning ideas into working products wh
 
 ---
 
-## <img src="https://img.shields.io/badge/%E2%86%92-TECHNICAL%20STACK-181717?style=flat-square" alt="Technical Stack" />
+## <img src="https://img.shields.io/badge/%E2%9E%9C-TECHNICAL%20STACK-181717?style=flat-square" alt="Technical Stack" />
 
 <table>
 <tr>
@@ -33,14 +33,23 @@ My development journey is centered around turning ideas into working products wh
 
 ### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,materialui" alt="Frontend technologies" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
 
 </td>
 <td width="50%" valign="top">
 
 ### BACKEND & DATABASE
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" alt="Backend technologies" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 
 </td>
 </tr>
@@ -49,7 +58,11 @@ My development journey is centered around turning ideas into working products wh
 
 ### TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode" alt="Development tools" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
 </td>
 </tr>
@@ -57,7 +70,7 @@ My development journey is centered around turning ideas into working products wh
 
 ---
 
-## <img src="https://img.shields.io/badge/%E2%86%92-FEATURED%20PROJECTS-181717?style=flat-square" alt="Featured Projects" />
+## <img src="https://img.shields.io/badge/%E2%9E%9C-FEATURED%20PROJECTS-181717?style=flat-square" alt="Featured Projects" />
 
 <table>
 <tr>
@@ -128,7 +141,24 @@ A React application for discovering exercises, browsing workout information, and
 
 ---
 
-## <img src="https://img.shields.io/badge/%E2%86%92-PROJECT%20CATALOG-181717?style=flat-square" alt="Project Catalog" />
+## <img src="https://img.shields.io/badge/%E2%9E%9C-PROJECT%20PROGRESS-181717?style=flat-square" alt="Project Progress" />
+
+<!-- PROJECT_PROGRESS:START -->
+<table>
+<tr>
+<td align="center"><b>PUBLIC REPOSITORIES</b><br /><br /><strong>4</strong></td>
+<td align="center"><b>FRONTEND</b><br /><br /><strong>2</strong></td>
+<td align="center"><b>BACKEND</b><br /><br /><strong>1</strong></td>
+<td align="center"><b>MERN</b><br /><br /><strong>1</strong></td>
+</tr>
+</table>
+
+**Repository activity is tracked automatically. Add a public repository and this section will update on the next scheduled sync.**
+<!-- PROJECT_PROGRESS:END -->
+
+---
+
+## <img src="https://img.shields.io/badge/%E2%9E%9C-PROJECT%20CATALOG-181717?style=flat-square" alt="Project Catalog" />
 
 <table>
 <tr>
@@ -160,7 +190,7 @@ A React application for discovering exercises, browsing workout information, and
 
 ---
 
-## <img src="https://img.shields.io/badge/%E2%86%92-LET'S%20CONNECT-181717?style=flat-square" alt="Let's Connect" />
+## <img src="https://img.shields.io/badge/%E2%9E%9C-LET'S%20CONNECT-181717?style=flat-square" alt="Let's Connect" />
 
 <div align="center">
 

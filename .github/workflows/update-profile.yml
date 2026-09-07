@@ -1,0 +1,88 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Update project progress
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+
+          repos=$(curl -fsSL \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/users/Sabi0603/repos?per_page=100&type=owner")
+
+          total=$(printf '%s' "$repos" | jq '[.[] | select(.fork == false and .archived == false and .name != "Sabi0603")] | length')
+
+          frontend=0
+          backend=0
+          mern=0
+
+          for repo in greenden fitflex; do
+            if printf '%s' "$repos" | jq -e --arg r "$repo" '.[] | select(.name == $r and .fork == false and .archived == false)' >/dev/null; then
+              frontend=$((frontend + 1))
+            fi
+          done
+
+          if printf '%s' "$repos" | jq -e '.[] | select(.name == "Product-Inventory-Management-System" and .fork == false and .archived == false)' >/dev/null; then
+            backend=1
+          fi
+
+          if printf '%s' "$repos" | jq -e '.[] | select(.name == "Personal_Portfolio" and .fork == false and .archived == false)' >/dev/null; then
+            mern=1
+          fi
+
+          python3 - "$total" "$frontend" "$backend" "$mern" <<'PY'
+          import pathlib
+          import sys
+
+          total, frontend, backend, mern = map(int, sys.argv[1:])
+          path = pathlib.Path("README.md")
+          text = path.read_text(encoding="utf-8")
+
+          start = "<!-- PROJECT_PROGRESS:START -->"
+          end = "<!-- PROJECT_PROGRESS:END -->"
+
+          replacement = f'''<!-- PROJECT_PROGRESS:START -->
+          <table>
+          <tr>
+          <td align="center"><b>PUBLIC REPOSITORIES</b><br /><br /><strong>{total}</strong></td>
+          <td align="center"><b>FRONTEND</b><br /><br /><strong>{frontend}</strong></td>
+          <td align="center"><b>BACKEND</b><br /><br /><strong>{backend}</strong></td>
+          <td align="center"><b>MERN</b><br /><br /><strong>{mern}</strong></td>
+          </tr>
+          </table>
+
+          **Repository activity is tracked automatically. Add a public repository and this section will update on the next scheduled sync.**
+          <!-- PROJECT_PROGRESS:END -->'''.replace("          ", "")
+
+          before, rest = text.split(start, 1)
+          _, after = rest.split(end, 1)
+          path.write_text(before + replacement + after, encoding="utf-8")
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No README changes needed."
+          else
+            git commit -m "chore: update profile project progress"
+            git push
+          fi

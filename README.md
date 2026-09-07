@@ -1,6 +1,8 @@
 <div align="center">
 
-# SABARI M
+# <span style="letter-spacing: 4px;">SABARI M</span>
+
+### <span style="letter-spacing: 3px;">MERN STACK DEVELOPER</span>
 
 **Building modern web applications with JavaScript, React, Node.js & MongoDB.**
 

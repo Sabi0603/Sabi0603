@@ -2,8 +2,6 @@
 
 # SABARI M
 
-### MERN STACK DEVELOPER
-
 **Building modern web applications with JavaScript, React, Node.js & MongoDB.**
 
 <br />
@@ -15,13 +13,9 @@
   <img src="https://img.shields.io/badge/Email-Contact%20Me-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Full%20Stack%20Web%20Developer&fontSize=32&fontAlignY=55&desc=Design%20%E2%80%A2%20Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Improve&descAlignY=75&animation=fadeIn" width="100%" alt="Developer banner" />
-
 </div>
 
-## → PROFILE
+## <img src="https://img.shields.io/badge/%E2%86%92-PROFILE-181717?style=flat-square" alt="Profile" />
 
 I am a **MERN Stack Developer** focused on building responsive interfaces, reliable backend systems, and complete full-stack applications.
 
@@ -31,7 +25,7 @@ My development journey is centered around turning ideas into working products wh
 
 ---
 
-## → TECHNICAL STACK
+## <img src="https://img.shields.io/badge/%E2%86%92-TECHNICAL%20STACK-181717?style=flat-square" alt="Technical Stack" />
 
 <table>
 <tr>
@@ -51,18 +45,11 @@ My development journey is centered around turning ideas into working products wh
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode" alt="Development tools" />
-
-</td>
-<td width="50%" valign="top">
-
-### ADDITIONAL
-
-<img src="https://skillicons.dev/icons?i=axios,threejs" alt="Additional technologies" />
 
 </td>
 </tr>
@@ -70,15 +57,13 @@ My development journey is centered around turning ideas into working products wh
 
 ---
 
-## → FEATURED PROJECTS
-
-### Full-Stack
+## <img src="https://img.shields.io/badge/%E2%86%92-FEATURED%20PROJECTS-181717?style=flat-square" alt="Featured Projects" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### Personal Portfolio
+### Personal Portfolio
 
 **Full-Stack Developer Portfolio**
 
@@ -88,12 +73,12 @@ A modern portfolio application combining a React frontend with a Node.js, Expres
 
 <br />
 
-<a href="https://github.com/Sabi0603/Personal_Portfolio">VIEW REPOSITORY →</a>
+<a href="https://github.com/Sabi0603/Personal_Portfolio"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Personal Portfolio repository" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-#### Product Inventory Management System
+### Product Inventory Management System
 
 **Inventory Management REST API**
 
@@ -103,19 +88,14 @@ A structured backend application for product and inventory management with authe
 
 <br />
 
-<a href="https://github.com/Sabi0603/Product-Inventory-Management-System">VIEW REPOSITORY →</a>
+<a href="https://github.com/Sabi0603/Product-Inventory-Management-System"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="View Product Inventory repository" /></a>
 
 </td>
 </tr>
-</table>
-
-### Frontend
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
-#### GreenDen
+### GreenDen
 
 **Plant & Gardening Website**
 
@@ -125,12 +105,12 @@ A responsive frontend experience focused on clean layouts, product presentation,
 
 <br />
 
-<a href="https://github.com/Sabi0603/greenden">VIEW REPOSITORY →</a>
+<a href="https://github.com/Sabi0603/greenden"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="View GreenDen repository" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-#### FitFlex
+### FitFlex
 
 **Fitness & Exercise Platform**
 
@@ -140,7 +120,7 @@ A React application for discovering exercises, browsing workout information, and
 
 <br />
 
-<a href="https://github.com/Sabi0603/fitflex">VIEW REPOSITORY →</a>
+<a href="https://github.com/Sabi0603/fitflex"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-F97316?style=for-the-badge&logo=github&logoColor=white" alt="View FitFlex repository" /></a>
 
 </td>
 </tr>
@@ -148,27 +128,44 @@ A React application for discovering exercises, browsing workout information, and
 
 ---
 
-## → PROJECT CATALOG
+## <img src="https://img.shields.io/badge/%E2%86%92-PROJECT%20CATALOG-181717?style=flat-square" alt="Project Catalog" />
 
-| Category | Project | Focus |
-| :--- | :--- | :--- |
-| **Frontend** | [GreenDen](https://github.com/Sabi0603/greenden) | Responsive plant & gardening website |
-| **Frontend** | [FitFlex](https://github.com/Sabi0603/fitflex) | Fitness & exercise platform |
-| **Backend** | [Product Inventory Management System](https://github.com/Sabi0603/Product-Inventory-Management-System) | Inventory REST API |
-| **MERN** | [Personal Portfolio](https://github.com/Sabi0603/Personal_Portfolio) | Full-stack portfolio application |
+<table>
+<tr>
+<th align="left">TYPE</th>
+<th align="left">PROJECT</th>
+<th align="left">FOCUS</th>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/FRONTEND-22C55E?style=flat-square" alt="Frontend" /></td>
+<td><a href="https://github.com/Sabi0603/greenden"><b>GreenDen</b></a></td>
+<td>Plant & gardening website</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/FRONTEND-22C55E?style=flat-square" alt="Frontend" /></td>
+<td><a href="https://github.com/Sabi0603/fitflex"><b>FitFlex</b></a></td>
+<td>Fitness & exercise platform</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/BACKEND-0EA5E9?style=flat-square" alt="Backend" /></td>
+<td><a href="https://github.com/Sabi0603/Product-Inventory-Management-System"><b>Product Inventory Management System</b></a></td>
+<td>Inventory REST API</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/MERN-8B5CF6?style=flat-square" alt="MERN" /></td>
+<td><a href="https://github.com/Sabi0603/Personal_Portfolio"><b>Personal Portfolio</b></a></td>
+<td>Full-stack portfolio application</td>
+</tr>
+</table>
 
 ---
 
-## → LET'S CONNECT
+## <img src="https://img.shields.io/badge/%E2%86%92-LET'S%20CONNECT-181717?style=flat-square" alt="Let's Connect" />
 
 <div align="center">
 
-<a href="https://github.com/Sabi0603">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:sabari.m.6263.dev@gmail.com">
-<img src="https://img.shields.io/badge/sabari.m.6263.dev%40gmail.com-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://github.com/Sabi0603"><img src="https://img.shields.io/badge/GitHub-Sabi0603-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:sabari.m.6263.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br /><br />
 
@@ -176,6 +173,6 @@ A React application for discovering exercises, browsing workout information, and
 
 <br />
 
-<sub>© Sabari M · MERN Stack Developer</sub>
+<sub>© Sabari M</sub>
 
 </div>

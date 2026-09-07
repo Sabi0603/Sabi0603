@@ -11,8 +11,8 @@
 <a href="https://github.com/Sabi0603">
   <img src="https://img.shields.io/badge/GitHub-Sabi0603-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://github.com/Sabi0603?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+<a href="mailto:sabari.m.6263.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br /><br />
@@ -159,62 +159,15 @@ A React application for discovering exercises, browsing workout information, and
 
 ---
 
-## `05` — DEVELOPMENT FOCUS
-
-```text
-JavaScript        ████████████████████  Building deeper fundamentals
-React             ██████████████████░░  Component-driven applications
-Node.js / Express █████████████████░░░  Backend & API development
-MongoDB           ████████████████░░░░  Data modeling & persistence
-MERN              ███████████████░░░░░  Full-stack application architecture
-```
-
-Currently focused on strengthening **advanced JavaScript**, building more complete **MERN applications**, and developing production-ready project architecture.
-
----
-
-## `06` — GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sabi0603&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabi0603&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Sabi0603&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## `07` — CURRENTLY BUILDING
-
-<table>
-<tr>
-<td align="center" width="25%">
-<strong>01</strong><br />Advanced JavaScript
-</td>
-<td align="center" width="25%">
-<strong>02</strong><br />React Applications
-</td>
-<td align="center" width="25%">
-<strong>03</strong><br />REST APIs
-</td>
-<td align="center" width="25%">
-<strong>04</strong><br />MERN Projects
-</td>
-</tr>
-</table>
-
----
-
-## `08` — LET'S CONNECT
+## `05` — LET'S CONNECT
 
 <div align="center">
 
 <a href="https://github.com/Sabi0603">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:sabari.m.6263.dev@gmail.com">
+<img src="https://img.shields.io/badge/sabari.m.6263.dev%40gmail.com-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br /><br />

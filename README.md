@@ -148,7 +148,7 @@ A React application for discovering exercises, browsing workout information, and
 <!-- PROJECT_PROGRESS:START -->
 <table>
 <tr>
-<td align="center"><b>PUBLIC REPOSITORIES</b><br /><br /><strong>4</strong></td>
+<td align="center"><b>PUBLIC REPOSITORIES</b><br /><br /><strong>5</strong></td>
 <td align="center"><b>FRONTEND</b><br /><br /><strong>2</strong></td>
 <td align="center"><b>BACKEND</b><br /><br /><strong>1</strong></td>
 <td align="center"><b>MERN</b><br /><br /><strong>1</strong></td>

@@ -78,6 +78,21 @@ My development journey is centered around turning ideas into working products wh
 <tr>
 <td width="50%" valign="top">
 
+### Amazon Frontend Clone
+
+**E-Commerce Frontend Application**
+
+An Amazon-inspired React application focused on a complete shopping experience with reusable components, routing, authentication flows, product browsing, wishlist, cart, checkout, and order management.
+
+`React` `Vite` `Tailwind CSS` `React Router`
+
+<br />
+
+<a href="https://github.com/Sabi0603/amazon-frontend-clone"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="View Amazon Frontend Clone repository" /></a>
+
+</td>
+<td width="50%" valign="top">
+
 ### Personal Portfolio
 
 **Full-Stack Developer Portfolio**
@@ -91,6 +106,8 @@ A modern portfolio application combining a React frontend with a Node.js, Expres
 <a href="https://github.com/Sabi0603/Personal_Portfolio"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Personal Portfolio repository" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### GreenDen
@@ -116,8 +133,8 @@ A responsive frontend experience focused on clean layouts, product presentation,
 <!-- PROJECT_PROGRESS:START -->
 <table>
 <tr>
-<td align="center"><b>PUBLIC REPOSITORIES</b><br /><br /><strong>3</strong></td>
-<td align="center"><b>FRONTEND</b><br /><br /><strong>1</strong></td>
+<td align="center"><b>PUBLIC REPOSITORIES</b><br /><br /><strong>4</strong></td>
+<td align="center"><b>FRONTEND</b><br /><br /><strong>2</strong></td>
 <td align="center"><b>BACKEND</b><br /><br /><strong>0</strong></td>
 <td align="center"><b>MERN</b><br /><br /><strong>1</strong></td>
 </tr>
@@ -135,6 +152,11 @@ A responsive frontend experience focused on clean layouts, product presentation,
 <th align="left">TYPE</th>
 <th align="left">PROJECT</th>
 <th align="left">FOCUS</th>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/FRONTEND-22C55E?style=flat-square" alt="Frontend" /></td>
+<td><a href="https://github.com/Sabi0603/amazon-frontend-clone"><b>Amazon Frontend Clone</b></a></td>
+<td>E-commerce frontend application</td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/FRONTEND-22C55E?style=flat-square" alt="Frontend" /></td>

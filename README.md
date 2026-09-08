@@ -107,23 +107,6 @@ A responsive frontend experience focused on clean layouts, product presentation,
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### Trip Advisor Clone
-
-**Travel & Review Platform Clone**
-
-A full-stack travel platform clone focused on destination discovery, listings, reviews, and modern web application development.
-
-`React` `Node.js` `Express` `MongoDB`
-
-<br />
-
-<a href="https://github.com/Sabi0603/trip-advisor-clone"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-E11D48?style=for-the-badge&logo=github&logoColor=white" alt="View Trip Advisor Clone repository" /></a>
-
-</td>
-</tr>
 </table>
 
 ---
@@ -133,10 +116,10 @@ A full-stack travel platform clone focused on destination discovery, listings, r
 <!-- PROJECT_PROGRESS:START -->
 <table>
 <tr>
-<td align="center"><b>PUBLIC REPOSITORIES</b><br /><br /><strong>5</strong></td>
-<td align="center"><b>FRONTEND</b><br /><br /><strong>2</strong></td>
-<td align="center"><b>BACKEND</b><br /><br /><strong>1</strong></td>
-<td align="center"><b>MERN</b><br /><br /><strong>2</strong></td>
+<td align="center"><b>PUBLIC REPOSITORIES</b><br /><br /><strong>3</strong></td>
+<td align="center"><b>FRONTEND</b><br /><br /><strong>1</strong></td>
+<td align="center"><b>BACKEND</b><br /><br /><strong>0</strong></td>
+<td align="center"><b>MERN</b><br /><br /><strong>1</strong></td>
 </tr>
 </table>
 
@@ -157,11 +140,6 @@ A full-stack travel platform clone focused on destination discovery, listings, r
 <td><img src="https://img.shields.io/badge/FRONTEND-22C55E?style=flat-square" alt="Frontend" /></td>
 <td><a href="https://github.com/Sabi0603/greenden"><b>GreenDen</b></a></td>
 <td>Plant & gardening website</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/MERN-8B5CF6?style=flat-square" alt="MERN" /></td>
-<td><a href="https://github.com/Sabi0603/trip-advisor-clone"><b>Trip Advisor Clone</b></a></td>
-<td>Travel & review platform clone</td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/MERN-8B5CF6?style=flat-square" alt="MERN" /></td>

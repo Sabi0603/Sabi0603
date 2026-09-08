@@ -93,23 +93,6 @@ A modern portfolio application combining a React frontend with a Node.js, Expres
 </td>
 <td width="50%" valign="top">
 
-### Product Inventory Management System
-
-**Inventory Management REST API**
-
-A structured backend application for product and inventory management with authentication and MongoDB integration.
-
-`Node.js` `Express` `MongoDB` `Mongoose` `JWT`
-
-<br />
-
-<a href="https://github.com/Sabi0603/Product-Inventory-Management-System"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="View Product Inventory repository" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### GreenDen
 
 **Plant & Gardening Website**
@@ -123,19 +106,21 @@ A responsive frontend experience focused on clean layouts, product presentation,
 <a href="https://github.com/Sabi0603/greenden"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="View GreenDen repository" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### FitFlex
+### Trip Advisor Clone
 
-**Fitness & Exercise Platform**
+**Travel & Review Platform Clone**
 
-A React application for discovering exercises, browsing workout information, and exploring exercise details.
+A full-stack travel platform clone focused on destination discovery, listings, reviews, and modern web application development.
 
-`React` `React Router` `Material UI` `RapidAPI`
+`React` `Node.js` `Express` `MongoDB`
 
 <br />
 
-<a href="https://github.com/Sabi0603/fitflex"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-F97316?style=for-the-badge&logo=github&logoColor=white" alt="View FitFlex repository" /></a>
+<a href="https://github.com/Sabi0603/trip-advisor-clone"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-E11D48?style=for-the-badge&logo=github&logoColor=white" alt="View Trip Advisor Clone repository" /></a>
 
 </td>
 </tr>
@@ -151,7 +136,7 @@ A React application for discovering exercises, browsing workout information, and
 <td align="center"><b>PUBLIC REPOSITORIES</b><br /><br /><strong>5</strong></td>
 <td align="center"><b>FRONTEND</b><br /><br /><strong>2</strong></td>
 <td align="center"><b>BACKEND</b><br /><br /><strong>1</strong></td>
-<td align="center"><b>MERN</b><br /><br /><strong>1</strong></td>
+<td align="center"><b>MERN</b><br /><br /><strong>2</strong></td>
 </tr>
 </table>
 
@@ -174,14 +159,9 @@ A React application for discovering exercises, browsing workout information, and
 <td>Plant & gardening website</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/FRONTEND-22C55E?style=flat-square" alt="Frontend" /></td>
-<td><a href="https://github.com/Sabi0603/fitflex"><b>FitFlex</b></a></td>
-<td>Fitness & exercise platform</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/BACKEND-0EA5E9?style=flat-square" alt="Backend" /></td>
-<td><a href="https://github.com/Sabi0603/Product-Inventory-Management-System"><b>Product Inventory Management System</b></a></td>
-<td>Inventory REST API</td>
+<td><img src="https://img.shields.io/badge/MERN-8B5CF6?style=flat-square" alt="MERN" /></td>
+<td><a href="https://github.com/Sabi0603/trip-advisor-clone"><b>Trip Advisor Clone</b></a></td>
+<td>Travel & review platform clone</td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/MERN-8B5CF6?style=flat-square" alt="MERN" /></td>

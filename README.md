@@ -134,7 +134,7 @@ A responsive frontend experience focused on clean layouts, product presentation,
 <table>
 <tr>
 <td align="center"><b>PUBLIC REPOSITORIES</b><br /><br /><strong>4</strong></td>
-<td align="center"><b>FRONTEND</b><br /><br /><strong>2</strong></td>
+<td align="center"><b>FRONTEND</b><br /><br /><strong>1</strong></td>
 <td align="center"><b>BACKEND</b><br /><br /><strong>0</strong></td>
 <td align="center"><b>MERN</b><br /><br /><strong>1</strong></td>
 </tr>

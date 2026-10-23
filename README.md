@@ -78,49 +78,60 @@ My development journey is centered around turning ideas into working products wh
 <tr>
 <td width="50%" valign="top">
 
-### Amazon Frontend Clone
-
-**E-Commerce Frontend Application**
-
-An Amazon-inspired React application focused on a complete shopping experience with reusable components, routing, authentication flows, product browsing, wishlist, cart, checkout, and order management.
-
-`React` `Vite` `Tailwind CSS` `React Router`
-
-<br />
-
-<a href="https://github.com/Sabi0603/amazon-frontend-clone"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="View Amazon Frontend Clone repository" /></a>
-
-</td>
-<td width="50%" valign="top">
-
 ### Personal Portfolio
 
 **Full-Stack Developer Portfolio**
 
-A modern portfolio application combining a React frontend with a Node.js, Express, and MongoDB backend.
+A portfolio application built with a React 19 and Vite frontend and an Express 5 backend. The project includes MongoDB/Mongoose integration, authentication-related functionality, Cloudinary media management, email support, and API security middleware.
 
-`React` `Vite` `Tailwind` `Node.js` `Express` `MongoDB`
+`React` `Vite` `Tailwind CSS` `Node.js` `Express` `MongoDB`
 
 <br />
 
 <a href="https://github.com/Sabi0603/Personal_Portfolio"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Personal Portfolio repository" /></a>
 
 </td>
+<td width="50%" valign="top">
+
+### Trip Advisor Clone
+
+**Travel-inspired Web Project**
+
+A project repository for a Trip Advisor-inspired application. See the repository for current implementation details.
+
+`Web Development`
+
+<br />
+
+<a href="https://github.com/Sabi0603/trip-advisor-clone"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="View Trip Advisor Clone repository" /></a>
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### GreenDen
+### Import Data using Transform Maps
 
-**Plant & Gardening Website**
+**Spreadsheet & Documentation Project**
 
-A responsive frontend experience focused on clean layouts, product presentation, navigation, and mobile-friendly design.
+A repository containing documentation files about importing data using Transform Maps, including PDF and DOCX resources.
 
-`HTML` `CSS` `JavaScript` `Tailwind CSS`
+`Documentation` `Data Import` `Transform Maps`
 
 <br />
 
-<a href="https://github.com/Sabi0603/greenden"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="View GreenDen repository" /></a>
+<a href="https://github.com/Sabi0603/Import-Data-using-Transform-Maps-Spreadsheet-"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View Transform Maps repository" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### More Projects
+
+I keep building and refining projects as I grow my frontend and full-stack skills. Explore my repositories for more experiments, learning projects, and recent work.
+
+<br /><br />
+
+<a href="https://github.com/Sabi0603?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
 
 </td>
 </tr>
@@ -130,18 +141,16 @@ A responsive frontend experience focused on clean layouts, product presentation,
 
 ## <img src="https://img.shields.io/badge/%E2%9E%9C-PROJECT%20PROGRESS-181717?style=flat-square" alt="Project Progress" />
 
-<!-- PROJECT_PROGRESS:START -->
 <table>
 <tr>
-<td align="center"><b>PUBLIC REPOSITORIES</b><br /><br /><strong>5</strong></td>
-<td align="center"><b>FRONTEND</b><br /><br /><strong>1</strong></td>
-<td align="center"><b>BACKEND</b><br /><br /><strong>0</strong></td>
-<td align="center"><b>MERN</b><br /><br /><strong>1</strong></td>
+<td align="center"><b>PUBLIC REPOSITORIES</b><br /><br /><strong>4</strong></td>
+<td align="center"><b>FULL-STACK</b><br /><br /><strong>1+</strong></td>
+<td align="center"><b>DOCUMENTATION</b><br /><br /><strong>1</strong></td>
+<td align="center"><b>DEVELOPMENT FOCUS</b><br /><br /><strong>MERN</strong></td>
 </tr>
 </table>
 
-**Repository activity is tracked automatically. Add a public repository and this section will update on the next scheduled sync.**
-<!-- PROJECT_PROGRESS:END -->
+*Project highlights are curated from the repositories currently visible in my GitHub account. Visit my repositories page for the complete and latest list.*
 
 ---
 
@@ -154,19 +163,19 @@ A responsive frontend experience focused on clean layouts, product presentation,
 <th align="left">FOCUS</th>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/FRONTEND-22C55E?style=flat-square" alt="Frontend" /></td>
-<td><a href="https://github.com/Sabi0603/amazon-frontend-clone"><b>Amazon Frontend Clone</b></a></td>
-<td>E-commerce frontend application</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/FRONTEND-22C55E?style=flat-square" alt="Frontend" /></td>
-<td><a href="https://github.com/Sabi0603/greenden"><b>GreenDen</b></a></td>
-<td>Plant & gardening website</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/MERN-8B5CF6?style=flat-square" alt="MERN" /></td>
+<td><img src="https://img.shields.io/badge/FULL--STACK-8B5CF6?style=flat-square" alt="Full Stack" /></td>
 <td><a href="https://github.com/Sabi0603/Personal_Portfolio"><b>Personal Portfolio</b></a></td>
-<td>Full-stack portfolio application</td>
+<td>React frontend and Express/MongoDB backend</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/WEB%20PROJECT-0EA5E9?style=flat-square" alt="Web Project" /></td>
+<td><a href="https://github.com/Sabi0603/trip-advisor-clone"><b>Trip Advisor Clone</b></a></td>
+<td>Travel-inspired web project</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/DOCUMENTATION-0F766E?style=flat-square" alt="Documentation" /></td>
+<td><a href="https://github.com/Sabi0603/Import-Data-using-Transform-Maps-Spreadsheet-"><b>Import Data using Transform Maps</b></a></td>
+<td>Spreadsheet/data-import documentation resources</td>
 </tr>
 </table>
 

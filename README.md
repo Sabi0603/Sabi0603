@@ -93,23 +93,6 @@ A portfolio application built with a React 19 and Vite frontend and an Express 5
 </td>
 <td width="50%" valign="top">
 
-### Trip Advisor Clone
-
-**Travel-inspired Web Project**
-
-A project repository for a Trip Advisor-inspired application. See the repository for current implementation details.
-
-`Web Development`
-
-<br />
-
-<a href="https://github.com/Sabi0603/trip-advisor-clone"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="View Trip Advisor Clone repository" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### Import Data using Transform Maps
 
 **Spreadsheet & Documentation Project**
@@ -123,6 +106,8 @@ A repository containing documentation files about importing data using Transform
 <a href="https://github.com/Sabi0603/Import-Data-using-Transform-Maps-Spreadsheet-"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View Transform Maps repository" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### More Projects
@@ -134,6 +119,15 @@ I keep building and refining projects as I grow my frontend and full-stack skill
 <a href="https://github.com/Sabi0603?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
 
 </td>
+<td width="50%" valign="top">
+
+### Current Focus
+
+Improving my full-stack development workflow, building maintainable web applications, and strengthening frontend and backend skills.
+
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
 </tr>
 </table>
 
@@ -143,14 +137,14 @@ I keep building and refining projects as I grow my frontend and full-stack skill
 
 <table>
 <tr>
-<td align="center"><b>PUBLIC REPOSITORIES</b><br /><br /><strong>4</strong></td>
+<td align="center"><b>PUBLIC REPOSITORIES</b><br /><br /><strong>3+</strong></td>
 <td align="center"><b>FULL-STACK</b><br /><br /><strong>1+</strong></td>
 <td align="center"><b>DOCUMENTATION</b><br /><br /><strong>1</strong></td>
 <td align="center"><b>DEVELOPMENT FOCUS</b><br /><br /><strong>MERN</strong></td>
 </tr>
 </table>
 
-*Project highlights are curated from the repositories currently visible in my GitHub account. Visit my repositories page for the complete and latest list.*
+*Project highlights are curated from selected repositories. Visit my repositories page for the complete and latest list.*
 
 ---
 
@@ -166,11 +160,6 @@ I keep building and refining projects as I grow my frontend and full-stack skill
 <td><img src="https://img.shields.io/badge/FULL--STACK-8B5CF6?style=flat-square" alt="Full Stack" /></td>
 <td><a href="https://github.com/Sabi0603/Personal_Portfolio"><b>Personal Portfolio</b></a></td>
 <td>React frontend and Express/MongoDB backend</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/WEB%20PROJECT-0EA5E9?style=flat-square" alt="Web Project" /></td>
-<td><a href="https://github.com/Sabi0603/trip-advisor-clone"><b>Trip Advisor Clone</b></a></td>
-<td>Travel-inspired web project</td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/DOCUMENTATION-0F766E?style=flat-square" alt="Documentation" /></td>
